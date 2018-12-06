@@ -1,0 +1,39 @@
+.navbar-custom-nav {background: #FFFFFF; box-shadow: 0 3px 12px 0 rgba(0, 0, 0, 0.15);}    
+.navbar-custom-nav li a{color: #000;border-radius: 0;margin-bottom: 0px !important;  font-size: 16px !important;}   
+.navbar-custom-nav li{border-bottom: 1px solid #cfdbe2; padding:8px;}
+.nav.nav-pills .active {background-color: #5a6667 !important;}
+.nav.nav-pills .active a{color: #fff !important; }          
+.nav.nav-pills li:hover{background-color: #5a6667 !important; }
+.nav.nav-pills li :hover{color: #fff;}
+.img-circle {border-radius: 50%;width: 32px !important; height: 32px !important;}
+.Custom-font-size{ font-size: 12px !important; }          
+.input-group .form-control{position: initial !important;}  
+.custom-btn{border-radius: 0px !important; padding: 2px !important;font-size: 12px !important;margin-top: 5px !important;}
+.nav-tabs-custom{box-shadow: 0 3px 12px 0 rgba(0, 0, 0, 0.15);}
+.clearfix { display: block }
+.countdown-time {display: block; text-align: center;}
+.countdown-time ul { display: inline-block; list-style: none; }
+.countdown-time li {float: left;text-align: center;}
+.countdown-time li.blank {line-height: 70px; width: 15px; font-size: 40px;}
+.countdown-time li.item { width: 110px; }
+.countdown-time i 
+{
+  display: block;
+  width: 80px;
+  font-style:normal; 
+  line-height: 70px;
+  font-size: 40px;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+  background: #fff;
+}
+
+.countdown-time span {
+  display: block;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1;
+  margin-top: 10px;
+}
