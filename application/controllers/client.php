@@ -142,6 +142,7 @@ class Client extends MY_Controller
     		$post['status']				  = '1';
   			$this->session->set_userdata('client_process' , $post);
 			redirect(base_url().'client/clientProcessDetail');
+			/*redirect(base_url().'client/clientProcessDetail');*/
     	}			
     	else
     	{
