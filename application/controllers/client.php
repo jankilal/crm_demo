@@ -64,6 +64,12 @@ class Client extends MY_Controller
         ),
 		'clientEdit' => array(
         	
+            // array(
+            //     'field' => 'client_name',
+            //     'label' => ' client name',
+            //     'rules' => 'trim|required'
+            // ),	
+
             array(
                 'field' => 'client_name',
                 'label' => ' client name',
