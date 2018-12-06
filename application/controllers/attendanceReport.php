@@ -26,6 +26,16 @@ class AttendanceReport extends MY_Controller
 		else
 		{	
 			redirect(base_url().'dashboard/error/1');
+			/*redirect(base_url().'dashboard/error/1');*/
+			/*redirect(base_url().'dashboard/error/1');*/
+			/*redirect(base_url().'dashboard/error/1');*/
+			/*redirect(base_url().'dashboard/error/1');*/
+			/*redirect(base_url().'dashboard/error/1');*/
+			/*redirect(base_url().'dashboard/error/1');*/
+			/*redirect(base_url().'dashboard/error/1');*/
+			/*redirect(base_url().'dashboard/error/1');*/
+			/*redirect(base_url().'dashboard/error/1');*/
+			/*redirect(base_url().'dashboard/error/1');*/
 		}
     }
 
